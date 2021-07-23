@@ -40,6 +40,7 @@ Full stack developer and software architect with 15+ years experience providing 
 <h3>Lets keep in touch</h3>
 edwin.carpio@xcelsa.com.ec<br>
 +5939-84888-568<br>
+Quito - Ecuador<br>
 <a href="https://www.linkedin.com/in/edwin-carpio-4209a241">linkedin/in/edwin-carpio-4209a241</a>
 
 
