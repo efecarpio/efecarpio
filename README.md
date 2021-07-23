@@ -7,7 +7,7 @@ Full stack developer and software architect with 15+ years experience providing 
 <table style="width:100%; border:none;">
   <tr>
     <td>
-      <a href="www.linkedin.com/in/edwin-carpio-4209a241">
+      <a href="https://www.linkedin.com/in/edwin-carpio-4209a241">
         <img src="https://user-images.githubusercontent.com/87832989/126814462-de4ee217-2c96-4709-a9d8-a56281dddc3a.png" alt="linkedin">
       </a>
     </td>
@@ -28,22 +28,18 @@ Full stack developer and software architect with 15+ years experience providing 
     </td>
   </tr>
 </table>
-dsfdf
-sdfds
-<table style="width:100%; border:none;">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>
+
+<h1>My Skills</h1>
+<h3>Skills and Tools: <i>Angular, C#, Python and many more...</i></h3>
+<img src="https://user-images.githubusercontent.com/87832989/126824399-e808ee7e-3c0a-40cf-bfe2-9a7f96d8242d.png" alt="skills & tools">
+
+<h3>Language Skills:</h3>
+<img src="https://user-images.githubusercontent.com/87832989/126826020-d881dd06-98de-445d-8491-830518b241dd.png" alt="language skills">
+
+<h1>Contact Me</h1>
+<h3>Lets keep in touch</h3>
+edwin.carpio@xcelsa.com.ec<br>
++5939-84888-568<br>
+<a href="https://www.linkedin.com/in/edwin-carpio-4209a241">linkedin/in/edwin-carpio-4209a241</a>
+
+
